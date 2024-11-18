@@ -14,9 +14,3 @@ Archivos del Proyecto
 - input.txt: Archivo de entrada que contiene la sopa de letras y la lista de palabras a buscar.
 - words.json: Archivo de salida que contiene el reporte de las palabras encontradas y no encontradas en formato JSON.
 - requirements.txt: Archivo que enumera los paquetes necesarios para ejecutar el proyecto.
-
-
-- Instalación de dependencias
-Para instalar las dependencias del proyecto se debe de ejecutar el comando:
-
- -> pip install -r requirements.txt
